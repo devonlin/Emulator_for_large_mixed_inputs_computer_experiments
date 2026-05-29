@@ -1,6 +1,6 @@
 # SVecchia Experiments
 
-This folder includes the experiments of SVecchia with the Examples 1 to 4.
+This folder includes the experiments of SEzGP with the Examples 1 to 4.
 
 ---
 
